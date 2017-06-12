@@ -2,9 +2,11 @@
 ## Title: Inspector v0.9
 ## Author: Vix Orien
 ## Notes: Allows item inspection from a distance
+## Notes-ruRU: Позволяет осматривать игроков на расстоянии
 
 
 Locale\Localization.lua
+Locale\Localization.ruRU.lua
 
 Inspector.xml
 InspectorButton.xml
